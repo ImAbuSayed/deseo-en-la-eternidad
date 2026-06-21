@@ -1,4 +1,4 @@
-# Deseo en la eternidad
+# Deseo en la eternidad, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Deseo en la eternidad |
+| **Title** | Deseo en la eternidad, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-la-eternidad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Deseo en la eternidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-la-eternidad/) |
+| **Get License** | [Request Licensing for Deseo en la eternidad, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-la-eternidad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, me tienes loco, pura tentación
+> I want you closer, perdiendo la razón
+> Esa mirada tuya es mi perdición
+> Bailando lento, cortando la tensión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `51806eb4aec860e638573cd78767c9c9c03ff45d3c9c2e4d4db9c8527e322af9` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
